@@ -1,5 +1,9 @@
 # Yet another Discord Presence
 
+## Archived
+I've neither the time nor the motivation to maintain/continue this project. It started out as a thing i made for fun to see whether i could implement something similar to [iCrawl's extension](https://github.com/iCrawl/discord-vscode) but there was enough interest in it which caused me to keep updating it. You should probably check out [LeonardSSH's extension](https://github.com/LeonardSSH/vscord) which was inspired by both iCrawl's and my extension and is in my opinion the best one out there up to this date.<br>
+Thank you to everyone who submitted issues/prs and motivated me to work on this ❤️
+
 ![](https://img.shields.io/visual-studio-marketplace/i/satoqz.yet-another-discord-presence)
 ![](https://img.shields.io/visual-studio-marketplace/d/satoqz.yet-another-discord-presence)
 
